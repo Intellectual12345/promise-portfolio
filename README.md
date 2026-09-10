@@ -1,4 +1,4 @@
-# Promise Okoyeocha — Personal Portfolio
+# intellectual Promise — Personal Portfolio
 
 A clean, responsive personal portfolio website created to showcase my journey as a graphic designer and aspiring web developer.
 
